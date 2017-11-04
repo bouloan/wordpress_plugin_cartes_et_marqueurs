@@ -1,0 +1,15 @@
+.pluginLabel{
+	display: block;
+	width: 196px;
+	float: left;
+	margin-bottom: 10px;
+}
+
+.pluginLabelRadio{
+	margin-bottom: 0px !important;
+}
+
+input{
+	margin-bottom: 20px !important;
+}
+
